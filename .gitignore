@@ -1,0 +1,7 @@
+# ignore executable files
+*.exe
+*.bat
+bin/
+
+# ignore claude
+CLAUDE.md
